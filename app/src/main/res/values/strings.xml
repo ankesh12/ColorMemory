@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorMemory</string>
+
+    <string-array name="type">
+        <item>New Game</item>
+    </string-array>
+</resources>
